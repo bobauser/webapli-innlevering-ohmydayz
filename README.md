@@ -1,3 +1,17 @@
+JEG VALGTE Å GJØRE ALTERNATIV 1 OG ALTERNATIV 2
+Jeg lagde også en Quiz side til json filen.
+Testene omhandler Json filen, samt Wow komponenten
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
