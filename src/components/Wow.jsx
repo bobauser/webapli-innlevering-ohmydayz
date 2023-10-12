@@ -4,11 +4,11 @@ export default function Wow( {enVariabel} ) {
 
     const [count, setCount] = useState(0);
 
-  const handleIncrement = () => {
+  const handleIncrease = () => {
     setCount(count + 1);
   };
 
-  const handleDecrement = () => {
+  const handleDecrease = () => {
     setCount(count - 1);
   };
     return (
@@ -17,8 +17,8 @@ export default function Wow( {enVariabel} ) {
             <span>Klikket: {count}</span>
             <button>Click for mayonesse</button>
             <p>Klikk her "{enVariabel}"</p>
-            <button onClick={handleIncrement}>Increment</button>
-            <button onClick={handleDecrement}>Decrement</button>    
+            <button onClick={handleIncrease}>Increase</button>
+            <button onClick={handleDecrease}>Decrease</button>    
         </div>
     )
 }
