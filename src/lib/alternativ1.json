@@ -1,0 +1,52 @@
+{
+    "questions": [
+    {
+        "title": "Hva er det kjemiske symbolet for gull?",
+        "answers": [
+            { "answer": "Go" },
+            { "answer": "Au", "correct": true },
+            { "answer": "Gu" },
+            { "answer": "Ag" }
+        ],
+        "helper": {
+            "text": "Dette elementet har symbolet som stammer fra dets latinske navn 'aurum.'"
+        }
+    },
+    {
+        "title": "Hvem skrev romanen 'Krig og fred'?",
+        "answers": [
+            { "answer": "Charles Dickens" },
+            { "answer": "Leo Tolstoy", "correct": true },
+            { "answer": "F. Scott Fitzgerald" },
+            { "answer": "Jane Austen" }
+        ],
+        "helper": {
+            "text": "Denne russiske forfatteren er kjent for sine episke verk."
+        }
+    },
+    {
+        "title": "Hvilket år ble Den amerikanske uavhengighetserklæringen undertegnet?",
+        "answers": [
+            { "answer": "1776", "correct": true },
+            { "answer": "1789" },
+            { "answer": "1799" },
+            { "answer": "1804" }
+        ],
+        "helper": {
+            "text": "Dette året markerer USAs uavhengighet fra Storbritannia."
+        }
+    },
+    {
+        "title": "Hva er den minste planeten i solsystemet vårt?",
+        "answers": [
+            { "answer": "Jupiter" },
+            { "answer": "Mars" },
+            { "answer": "Venus" },
+            { "answer": "Merkur", "correct": true }
+        ],
+        "helper": {
+            "text": "Denne planeten er den nærmeste til solen og har ingen naturlige satellitter."
+        }
+    }
+]
+}
